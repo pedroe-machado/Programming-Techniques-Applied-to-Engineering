@@ -1,0 +1,17 @@
+{
+    "diffEditor.ignoreTrimWhitespace": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "githubPullRequests.createOnPublishBranch": "never",
+    "git.confirmSync": false,
+    "redhat.telemetry.enabled": true,
+    "java.test.config": {},
+    "java.configuration.runtimes": [
+        
+          {
+            "name": "JavaSE-17",
+            "path": "c:\\Program Files\\Java\\jdk-17",
+            "default": true
+          },
+    ],
+    "java.jdt.ls.java.home": "c:\\Program Files\\Java\\jdk-17"
+}
